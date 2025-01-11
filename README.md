@@ -1,8 +1,5 @@
 5、（Ubuntu系统）1panel Linux管理面板内应用商店安装如下应用
-
-
-
-
+![image](https://github.com/user-attachments/assets/046b8d18-92d4-4efe-bc0d-a76d82bcb495)
 6、1panel Linux管理面板内安装 网站->运行环境->PHP
 
 
